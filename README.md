@@ -49,10 +49,10 @@ fornecedores, tornando mais fácil o contato e a gestão das compras
 
 
 
-### Configuração
+### Configurações
 
 Clone o repositório:
-git clone [url-do-repositorio]
+git clone https://github.com/Infantas7/Sistema_de_Gestao_de_Estoque_para_Pequena_Empresa.git
 
 
 ### Licença
