@@ -60,9 +60,9 @@ git clone https://github.com/Infantas7/Sistema_de_Gestao_de_Estoque_para_Pequena
 Este projeto é licenciado sob a Licença MIT License.
 
 ### Autores
-• Gabriel Alvares Infantas - https://github.com/Infantas7
+• Gabriel Alvares Infantas  https://github.com/Infantas7
 
 ### Contato
 
-LinkedIn : 
+LinkedIn : www.linkedin.com/in/gabriel-infantas-a45219213
 
