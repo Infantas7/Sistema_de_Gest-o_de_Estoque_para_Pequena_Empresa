@@ -64,5 +64,5 @@ Este projeto é licenciado sob a Licença MIT License.
 
 ### Contato
 
-LinkedIn : www.linkedin.com/in/gabriel-infantas-a45219213
+LinkedIn : www.linkedin.com/in/gabriel-infantass
 
